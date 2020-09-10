@@ -1,0 +1,56 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\BLL\bin\Debug\BLL.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\BLL\bin\Debug\BLL.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\BLL\bin\Debug\DAL.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\BLL\bin\Debug\Model.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\BLL\bin\Debug\DAL.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\BLL\bin\Debug\Model.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\BLL\obj\Debug\BLL.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\BLL\obj\Debug\BLL.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\BLL\bin\Debug\BLL.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\BLL\bin\Debug\BLL.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\BLL\bin\Debug\DAL.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\BLL\bin\Debug\Model.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\BLL\bin\Debug\DAL.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\BLL\bin\Debug\Model.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.pdb
+H:\ShopDemo\ShopDemo\BLL\bin\Debug\BLL.dll
+H:\ShopDemo\ShopDemo\BLL\bin\Debug\BLL.pdb
+H:\ShopDemo\ShopDemo\BLL\bin\Debug\DAL.dll
+H:\ShopDemo\ShopDemo\BLL\bin\Debug\Model.dll
+H:\ShopDemo\ShopDemo\BLL\bin\Debug\DAL.pdb
+H:\ShopDemo\ShopDemo\BLL\bin\Debug\Model.pdb
+H:\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+H:\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.dll
+H:\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.pdb
+I:\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\BLL.dll
+I:\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\BLL.pdb
+I:\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\DAL.dll
+I:\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\Model.dll
+I:\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\DAL.pdb
+I:\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\Model.pdb
+I:\ShopDemo\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+I:\ShopDemo\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.dll
+I:\ShopDemo\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\BLL.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\BLL.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\DAL.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\Model.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\DAL.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\Model.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.pdb
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\BLL.dll
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\BLL.pdb
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\DAL.dll
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\Model.dll
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\DAL.pdb
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\BLL\bin\Debug\Model.pdb
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.dll
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\BLL\obj\Debug\BLL.pdb

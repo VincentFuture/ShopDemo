@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{93D157DE-FC0D-45D5-959C-AAB106F70D67}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ShopDemo</RootNamespace>
+    <AssemblyName>ShopDemo</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Account\ChangePassword.aspx" />
+    <Content Include="Account\ChangePasswordSuccess.aspx" />
+    <Content Include="Account\Login.aspx" />
+    <Content Include="Account\Register.aspx" />
+    <Content Include="Admin\Info.aspx" />
+    <Content Include="Admin\Wares\AddGoods.aspx" />
+    <Content Include="Admin\Wares\DelGoods.aspx" />
+    <Content Include="Admin\Wares\EditGoods.aspx" />
+    <Content Include="css\infobootstrap.min.css" />
+    <Content Include="css\infonprogress.css" />
+    <Content Include="css\infostyle.css" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\easyform.js" />
+    <Content Include="js\html5shiv.min.js" />
+    <Content Include="js\info_jquery.js" />
+    <Content Include="js\jquery-2.1.4.min.js" />
+    <Content Include="js\jquery.js" />
+    <Content Include="js\jquery.lazyload.min.js" />
+    <Content Include="js\nprogress.js" />
+    <Content Include="js\pintuer.js" />
+    <Content Include="js\respond.min.js" />
+    <Content Include="js\selectivizr-min.js" />
+    <Content Include="PTUsers\PurchasePro\AddOrder.aspx" />
+    <Content Include="PTUsers\PurchasePro\DelMyCart.aspx" />
+    <Content Include="PTUsers\PurchasePro\MyCart.aspx" />
+    <Content Include="PTUsers\PurchasePro\MyOrder.aspx" />
+    <Content Include="PTUsers\PurchasePro\MyOrders.aspx" />
+    <Content Include="PTUsers\PurchasePro\Page.aspx" />
+    <Content Include="Admin\Wares\SpList.aspx" />
+    <Content Include="Admin\UserMgr\HyList.aspx" />
+    <Content Include="css\admin.css" />
+    <Content Include="css\pintuer.css" />
+    <Content Include="images\11.jpg" />
+    <Content Include="images\bg.jpg" />
+    <Content Include="images\passcode.jpg" />
+    <Content Include="images\tmbg-white.png" />
+    <Content Include="images\y.jpg" />
+    <Content Include="Index.aspx" />
+    <Content Include="PTUsers\Index.aspx" />
+    <Content Include="PTUsers\Login.aspx" />
+    <Content Include="PTUsers\PurchasePro\Category.aspx" />
+    <Content Include="PTUsers\Register.aspx" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="theme\css\base.css" />
+    <Content Include="theme\css\home.css" />
+    <Content Include="theme\css\login.css" />
+    <Content Include="theme\css\member.css" />
+    <Content Include="theme\icon\1f.png" />
+    <Content Include="theme\icon\2f.png" />
+    <Content Include="theme\icon\arrow.gif" />
+    <Content Include="theme\icon\btnys.png" />
+    <Content Include="theme\icon\car.png" />
+    <Content Include="theme\icon\cart.png" />
+    <Content Include="theme\icon\check.png" />
+    <Content Include="theme\icon\closehdtipper.png" />
+    <Content Include="theme\icon\col.png" />
+    <Content Include="theme\icon\ewm.png" />
+    <Content Include="theme\icon\favicon.ico" />
+    <Content Include="theme\icon\font.png" />
+    <Content Include="theme\icon\icon-d1.png" />
+    <Content Include="theme\icon\icon-d2.png" />
+    <Content Include="theme\icon\icon-d3.png" />
+    <Content Include="theme\icon\icon-jg.png" />
+    <Content Include="theme\icon\icon-lb.png" />
+    <Content Include="theme\icon\icon-lc.png" />
+    <Content Include="theme\icon\iphone.png" />
+    <Content Include="theme\icon\jia.png" />
+    <Content Include="theme\icon\kefu.gif" />
+    <Content Include="theme\icon\li.png" />
+    <Content Include="theme\icon\lii.png" />
+    <Content Include="theme\icon\list.png" />
+    <Content Include="theme\icon\logo.png" />
+    <Content Include="theme\icon\m-fl.png" />
+    <Content Include="theme\icon\m-fr.png" />
+    <Content Include="theme\icon\member-icon.png" />
+    <Content Include="theme\icon\member-ip.png" />
+    <Content Include="theme\icon\member-s.png" />
+    <Content Include="theme\icon\member-u.png" />
+    <Content Include="theme\icon\member-x.png" />
+    <Content Include="theme\icon\member-x1.png" />
+    <Content Include="theme\icon\moquu_wshare.png" />
+    <Content Include="theme\icon\pro_down.png" />
+    <Content Include="theme\icon\pro_left.png" />
+    <Content Include="theme\icon\s-a1.png" />
+    <Content Include="theme\icon\s-a2.png" />
+    <Content Include="theme\icon\s-a3.png" />
+    <Content Include="theme\icon\s-a4.png" />
+    <Content Include="theme\icon\s.png" />
+    <Content Include="theme\icon\san.png" />
+    <Content Include="theme\icon\sbtn.png" />
+    <Content Include="theme\icon\shop-car.png" />
+    <Content Include="theme\icon\shop-ll.png" />
+    <Content Include="theme\icon\shop-logo.png" />
+    <Content Include="theme\icon\shop-user.png" />
+    <Content Include="theme\icon\slider.png" />
+    <Content Include="theme\icon\spin.png" />
+    <Content Include="theme\icon\sr.png" />
+    <Content Include="theme\icon\sr1.png" />
+    <Content Include="theme\icon\star.png" />
+    <Content Include="theme\icon\step.png" />
+    <Content Include="theme\icon\step1.png" />
+    <Content Include="theme\icon\step2.png" />
+    <Content Include="theme\icon\time.png" />
+    <Content Include="theme\icon\user.png" />
+    <Content Include="theme\icon\warn.png" />
+    <Content Include="theme\icon\y1.png" />
+    <Content Include="theme\icon\y2.png" />
+    <Content Include="theme\img\ad\a1.png" />
+    <Content Include="theme\img\ad\a2.png" />
+    <Content Include="theme\img\ad\a3.png" />
+    <Content Include="theme\img\ad\a4.png" />
+    <Content Include="theme\img\ad\a5.png" />
+    <Content Include="theme\img\ad\banner1.jpg" />
+    <Content Include="theme\img\ad\banner2.jpg" />
+    <Content Include="theme\img\ad\bar.jpg" />
+    <Content Include="theme\img\ad\bar1.jpg" />
+    <Content Include="theme\img\ad\br1.jpg" />
+    <Content Include="theme\img\ad\hot1.jpg" />
+    <Content Include="theme\img\ad\hot2.jpg" />
+    <Content Include="theme\img\ad\hot3.jpg" />
+    <Content Include="theme\img\ad\p1.png" />
+    <Content Include="theme\img\ad\p2.png" />
+    <Content Include="theme\img\ad\p3.png" />
+    <Content Include="theme\img\ad\p4.png" />
+    <Content Include="theme\img\ad\p5.png" />
+    <Content Include="theme\img\ad\p6.png" />
+    <Content Include="theme\img\ad\shop1.png" />
+    <Content Include="theme\img\ad\shop2.png" />
+    <Content Include="theme\img\ad\shop3.png" />
+    <Content Include="theme\img\ad\shop4.png" />
+    <Content Include="theme\img\ad\shop5.png" />
+    <Content Include="theme\img\ad\top1.png" />
+    <Content Include="theme\img\bg\mem.png" />
+    <Content Include="theme\img\bg\xq.png" />
+    <Content Include="theme\img\pd\bar1.png" />
+    <Content Include="theme\img\pd\bar2.png" />
+    <Content Include="theme\img\pd\bar3.png" />
+    <Content Include="theme\img\pd\bar4.png" />
+    <Content Include="theme\img\pd\bar5.png" />
+    <Content Include="theme\img\pd\hot1.png" />
+    <Content Include="theme\img\pd\hot2.png" />
+    <Content Include="theme\img\pd\hot3.png" />
+    <Content Include="theme\img\pd\hot4.png" />
+    <Content Include="theme\img\pd\m1.png" />
+    <Content Include="theme\img\pd\m2.png" />
+    <Content Include="theme\img\pd\m3.png" />
+    <Content Include="theme\img\pd\m4.png" />
+    <Content Include="theme\img\pd\m5.png" />
+    <Content Include="theme\img\pd\p1.png" />
+    <Content Include="theme\img\pd\p2.png" />
+    <Content Include="theme\img\pd\p3.png" />
+    <Content Include="theme\img\pd\p4.png" />
+    <Content Include="theme\img\pd\p5.png" />
+    <Content Include="theme\img\pd\p6.png" />
+    <Content Include="theme\img\pd\pc1.png" />
+    <Content Include="theme\img\pd\pd1.png" />
+    <Content Include="theme\img\pd\pd2.png" />
+    <Content Include="theme\img\pd\pd3.png" />
+    <Content Include="theme\img\pd\pd4.png" />
+    <Content Include="theme\img\pd\pj1.png" />
+    <Content Include="theme\img\pd\product.png" />
+    <Content Include="theme\img\pd\product1.png" />
+    <Content Include="theme\img\pd\product2.png" />
+    <Content Include="theme\img\pd\product3.png" />
+    <Content Include="theme\img\pd\product4.png" />
+    <Content Include="theme\img\pd\yue.png" />
+    <Content Include="theme\js\checkcode.js" />
+    <Content Include="theme\js\index.js" />
+    <Content Include="theme\js\jcarousellite.js" />
+    <Content Include="theme\js\jquery-3.1.1.min.js" />
+    <Content Include="theme\js\jquery.js" />
+    <Content Include="theme\js\js-tab.js" />
+    <Content Include="theme\js\MSClass.js" />
+    <Content Include="theme\js\prototype.js" />
+    <Content Include="theme\js\top.js" />
+    <Content Include="theme\login\a1.jpg" />
+    <Content Include="theme\login\code.png" />
+    <Content Include="theme\login\login-icons.png" />
+    <Content Include="theme\login\msg.png" />
+    <Content Include="UserDemo.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.designer.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Info.aspx.cs">
+      <DependentUpon>Info.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Info.aspx.designer.cs">
+      <DependentUpon>Info.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Wares\AddGoods.aspx.cs">
+      <DependentUpon>AddGoods.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Wares\AddGoods.aspx.designer.cs">
+      <DependentUpon>AddGoods.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Wares\DelGoods.aspx.cs">
+      <DependentUpon>DelGoods.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Wares\DelGoods.aspx.designer.cs">
+      <DependentUpon>DelGoods.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Wares\EditGoods.aspx.cs">
+      <DependentUpon>EditGoods.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Wares\EditGoods.aspx.designer.cs">
+      <DependentUpon>EditGoods.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PTUsers\PurchasePro\AddOrder.aspx.cs">
+      <DependentUpon>AddOrder.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PTUsers\PurchasePro\AddOrder.aspx.designer.cs">
+      <DependentUpon>AddOrder.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PTUsers\PurchasePro\DelMyCart.aspx.cs">
+      <DependentUpon>DelMyCart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PTUsers\PurchasePro\DelMyCart.aspx.designer.cs">
+      <DependentUpon>DelMyCart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PTUsers\PurchasePro\MyCart.aspx.cs">
+      <DependentUpon>MyCart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PTUsers\PurchasePro\MyCart.aspx.designer.cs">
+      <DependentUpon>MyCart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PTUsers\PurchasePro\MyOrder.aspx.cs">
+      <DependentUpon>MyOrder.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PTUsers\PurchasePro\MyOrder.aspx.designer.cs">
+      <DependentUpon>MyOrder.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PTUsers\PurchasePro\MyOrders.aspx.cs">
+      <DependentUpon>MyOrders.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PTUsers\PurchasePro\MyOrders.aspx.designer.cs">
+      <DependentUpon>MyOrders.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PTUsers\PurchasePro\Page.aspx.cs">
+      <DependentUpon>Page.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PTUsers\PurchasePro\Page.aspx.designer.cs">
+      <DependentUpon>Page.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Wares\SpList.aspx.cs">
+      <DependentUpon>SpList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Wares\SpList.aspx.designer.cs">
+      <DependentUpon>SpList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UserMgr\HyList.aspx.cs">
+      <DependentUpon>HyList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\UserMgr\HyList.aspx.designer.cs">
+      <DependentUpon>HyList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PTUsers\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PTUsers\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PTUsers\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PTUsers\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PTUsers\PurchasePro\Category.aspx.cs">
+      <DependentUpon>Category.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PTUsers\PurchasePro\Category.aspx.designer.cs">
+      <DependentUpon>Category.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PTUsers\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PTUsers\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="UserDemo.aspx.cs">
+      <DependentUpon>UserDemo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserDemo.aspx.designer.cs">
+      <DependentUpon>UserDemo.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Account\Web.config" />
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{C8940858-8AA4-43DB-BE02-0B0A3D3318C6}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{56FEFB44-7C17-4F90-83F7-D60484953C7C}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="theme\icon\Thumbs.db" />
+    <None Include="theme\img\ad\Thumbs.db" />
+    <None Include="theme\img\bg\Thumbs.db" />
+    <None Include="theme\img\pd\Thumbs.db" />
+    <None Include="theme\login\Thumbs.db" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>5701</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

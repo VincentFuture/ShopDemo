@@ -1,0 +1,27 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\Model\bin\Debug\Model.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\Model\bin\Debug\Model.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\Model\obj\Debug\Model.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\Model\obj\Debug\Model.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\Model\bin\Debug\Model.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\Model\bin\Debug\Model.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\Model\obj\Debug\Model.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\Model\obj\Debug\Model.pdb
+H:\ShopDemo\ShopDemo\Model\bin\Debug\Model.dll
+H:\ShopDemo\ShopDemo\Model\bin\Debug\Model.pdb
+H:\ShopDemo\ShopDemo\Model\obj\Debug\Model.dll
+H:\ShopDemo\ShopDemo\Model\obj\Debug\Model.pdb
+I:\ShopDemo\ShopDemo\ShopDemo\Model\bin\Debug\Model.dll
+I:\ShopDemo\ShopDemo\ShopDemo\Model\bin\Debug\Model.pdb
+I:\ShopDemo\ShopDemo\ShopDemo\Model\obj\Debug\Model.dll
+I:\ShopDemo\ShopDemo\ShopDemo\Model\obj\Debug\Model.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\Model\bin\Debug\Model.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\Model\bin\Debug\Model.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\Model\obj\Debug\Model.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\Model\obj\Debug\Model.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\Model\bin\Debug\Model.dll
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\Model\bin\Debug\Model.pdb
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\Model\obj\Debug\Model.dll
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\Model\obj\Debug\Model.pdb

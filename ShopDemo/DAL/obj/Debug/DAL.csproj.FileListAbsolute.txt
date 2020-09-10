@@ -1,0 +1,44 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\DAL\bin\Debug\DAL.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\DAL\bin\Debug\DAL.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\DAL\bin\Debug\Model.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\DAL\bin\Debug\Model.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\DAL\obj\Debug\DAL.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\ShopDemo\DAL\obj\Debug\DAL.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\DAL\bin\Debug\DAL.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\DAL\bin\Debug\DAL.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\DAL\bin\Debug\Model.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\DAL\bin\Debug\Model.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.pdb
+H:\ShopDemo\ShopDemo\DAL\bin\Debug\DAL.dll
+H:\ShopDemo\ShopDemo\DAL\bin\Debug\DAL.pdb
+H:\ShopDemo\ShopDemo\DAL\bin\Debug\Model.dll
+H:\ShopDemo\ShopDemo\DAL\bin\Debug\Model.pdb
+H:\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.dll
+H:\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.pdb
+I:\ShopDemo\ShopDemo\ShopDemo\DAL\bin\Debug\DAL.dll
+I:\ShopDemo\ShopDemo\ShopDemo\DAL\bin\Debug\DAL.pdb
+I:\ShopDemo\ShopDemo\ShopDemo\DAL\bin\Debug\Model.dll
+I:\ShopDemo\ShopDemo\ShopDemo\DAL\bin\Debug\Model.pdb
+I:\ShopDemo\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+I:\ShopDemo\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.dll
+I:\ShopDemo\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\DAL\bin\Debug\DAL.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\DAL\bin\Debug\DAL.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\DAL\bin\Debug\Model.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\DAL\bin\Debug\Model.pdb
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.dll
+C:\Users\lenovo\Desktop\ShopDemo\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.pdb
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\DAL\bin\Debug\DAL.dll
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\DAL\bin\Debug\DAL.pdb
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\DAL\bin\Debug\Model.dll
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\DAL\bin\Debug\Model.pdb
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.dll
+D:\ClassTask\c#\ShopDemo\ShopDemo\ShopDemo\DAL\obj\Debug\DAL.pdb
